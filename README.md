@@ -1,4 +1,4 @@
-# 🖥️ Automated UI Tests for "Revue Crafters" 
+# Automated UI Tests for "Revue Crafters" 
 
 Automated UI tests for the "Revue Crafters" application using Selenium WebDriver. This project is for educational purposes only.
 
